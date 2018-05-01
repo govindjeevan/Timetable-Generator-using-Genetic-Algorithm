@@ -1,1 +1,0 @@
-# Timetable-Generator-using-Genetic-Algorithm
